@@ -19,5 +19,8 @@
   "homepage": "https://github.com/wotsuji/zenn-contents#readme",
   "dependencies": {
     "zenn-cli": "^0.1.81"
+  },
+  "devDependencies": {
+    "postcss": "^8.3.0"
   }
 }
