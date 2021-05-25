@@ -21,6 +21,7 @@
     "zenn-cli": "^0.1.81"
   },
   "devDependencies": {
+    "browserslist": "^4.16.6",
     "postcss": "^8.3.0"
   }
 }
